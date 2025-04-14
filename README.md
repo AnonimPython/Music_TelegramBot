@@ -39,14 +39,6 @@ git clone https://github.com/AnonimPython/Music_TelegramBot.git
 cd music
 ```
 
-ini
-
-Copy
-
-```
-TOKEN="TOKEN"
-```
-
 4. Создайте структуру папок:
 
 Copy
